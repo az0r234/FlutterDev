@@ -2,9 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfbbf85e-eacf-4efb-a63f-df38ac71ca5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/bc458269526c6510b1fc496871024044/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/bc458269526c6510b1fc496871024044/.filecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/bc458269526c6510b1fc496871024044/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/bc458269526c6510b1fc496871024044/app.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/App" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/App" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Flutter" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Flutter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Runner" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Runner" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/_CodeSignature/CodeResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/App" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/App" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Flutter" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Flutter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Runner" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Runner" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/_CodeSignature/CodeResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +29,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_6_API_30" />
   <component name="FlutterView" splitter-proportion="0.25301206" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1dbtma1Ta9aMyNOkCVLl4utwe8T" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -63,21 +77,21 @@
       <screen x="0" y="0" width="1344" height="840" />
     </state>
     <state x="206" y="155" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1344.840@0.0.1344.840" timestamp="1593238907264" />
-    <state width="985" height="216" key="GridCell.Tab.0.bottom" timestamp="1593290974271">
+    <state width="896" height="216" key="GridCell.Tab.0.bottom" timestamp="1593295133640">
       <screen x="0" y="0" width="1344" height="840" />
     </state>
-    <state width="985" height="216" key="GridCell.Tab.0.bottom/0.0.1344.840@0.0.1344.840" timestamp="1593290974271" />
-    <state width="985" height="216" key="GridCell.Tab.0.center" timestamp="1593290974271">
+    <state width="896" height="216" key="GridCell.Tab.0.bottom/0.0.1344.840@0.0.1344.840" timestamp="1593295133640" />
+    <state width="896" height="216" key="GridCell.Tab.0.center" timestamp="1593295133639">
       <screen x="0" y="0" width="1344" height="840" />
     </state>
-    <state width="985" height="216" key="GridCell.Tab.0.center/0.0.1344.840@0.0.1344.840" timestamp="1593290974271" />
-    <state width="985" height="216" key="GridCell.Tab.0.left" timestamp="1593290974270">
+    <state width="896" height="216" key="GridCell.Tab.0.center/0.0.1344.840@0.0.1344.840" timestamp="1593295133639" />
+    <state width="896" height="216" key="GridCell.Tab.0.left" timestamp="1593295133639">
       <screen x="0" y="0" width="1344" height="840" />
     </state>
-    <state width="985" height="216" key="GridCell.Tab.0.left/0.0.1344.840@0.0.1344.840" timestamp="1593290974270" />
-    <state width="985" height="216" key="GridCell.Tab.0.right" timestamp="1593290974271">
+    <state width="896" height="216" key="GridCell.Tab.0.left/0.0.1344.840@0.0.1344.840" timestamp="1593295133639" />
+    <state width="896" height="216" key="GridCell.Tab.0.right" timestamp="1593295133639">
       <screen x="0" y="0" width="1344" height="840" />
     </state>
-    <state width="985" height="216" key="GridCell.Tab.0.right/0.0.1344.840@0.0.1344.840" timestamp="1593290974271" />
+    <state width="896" height="216" key="GridCell.Tab.0.right/0.0.1344.840@0.0.1344.840" timestamp="1593295133639" />
   </component>
 </project>
