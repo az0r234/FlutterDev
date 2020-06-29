@@ -1,0 +1,4 @@
+#Sun Jun 28 21:11:19 EDT 2020
+base.0=/Users/az0r234/Desktop/FlutterDev/xylophone-flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
